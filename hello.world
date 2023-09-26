@@ -1,5 +1,6 @@
 #include<iostream.h>
 void main()
 {
-  printf("hello world!")
+  printf("hello world!");
+ printf("\nthis is the basi C program");
 }
